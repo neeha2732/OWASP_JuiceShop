@@ -71,7 +71,7 @@ The assessment followed the **OWASP Web Security Testing Guide (WSTG)** framewor
 
 ## 📎 Full Report
 
-👉 [Click here to view the full report (PDF)](Report_Link.pdf)
+👉 [Click here to view the full report (PDF)](Report _Link.pdf)
 
 
 ---
